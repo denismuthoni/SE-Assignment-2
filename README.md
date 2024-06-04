@@ -4,7 +4,7 @@ Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Define Software Engineering:
+Define Software Engineering:its a branch of computer sceince that deals with the desighn development,testing and maintanance of software application
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
